@@ -1,4 +1,3 @@
 # Example Repository
-This is a sample repository
+This repository is used for testing only.  There are no code files in here.
 
-"Hello World"
